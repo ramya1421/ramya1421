@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ramya Varshini
+# Hi there 👋, I'm V.Ramya Varshini
 
 🎓 Computer Science Student  
 💻 Passionate about Software Development, Competitive Programming, and AI  
